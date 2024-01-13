@@ -1,14 +1,24 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
+Hi, I'm Szymon - a data engineering and analysis student at Warsaw University of Technology. Currently, I'm working on my engineering thesis focusing on Curriculum Learning. As part of this project, I've created a package called academia-rl, which is available on PyPI.
 
+## Projects
 
-- 🔭 I’m currently on the second year of Data Engeneering and Analysis on Warsaw Unversity of Technology.
-- 🌱 I’m currently learning machine learning focused the most on tree models but not only
-- 👯 I’m Python, R and Java programmer. I am looking for bigger projects to develop my skills and build solid portfolio. If you are looking for second year student without commercial experience feel free to hit me on LinkedIn (link below).
-- ✨ On my profile you can see some of projects done for classes at my University.
-- Predicting house pricing in Montreal and preparing search paper about predicting house prices using Tree based models. 
-- Predicting different types of activities based on smartphone's activity (Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist). Based on this our task is to predict which activity  is currently being performed. 
-- I have also done dashboard about our Facebook account, where you can upload necessary data and you will get precise analysis. 
-- You can notice also a poster about Greenhouse Gases Emission because I find this topic necessary to stop polluting the environment (whole poster was done in R). 
-- You can see also a raport about good practises in data visualizations which was made for one class on my University. I decided there to do Covid-19 data visualization because of huge popularity of this topic. There were plenty covid statistic's visualizations which were not easy to interpret as they should be.
+### 1. academia-rl
+I am currently working on an engineering project exploring Curriculum Learning. As a result, the [academia-rl](https://pypi.org/project/academia-rl/) package was developed to facilitate advanced machine learning usage.
+
+### 2. toRpEDA
+In addition to the academia-rl project, my GitHub account also includes the toRpEDA package written in R. It is a tool for automatic data exploration, simplifying data analysis in the R language.
+
+### 3. Big Data & Data warehouses
+Within my portfolio, you'll find projects related to Big Data, where we analyzed data from platforms such as StackOverflow and Data Science StackExchange. Additionally, I participated in a data warehouse project where we designed the warehouse, created an ETL pipeline, and conducted data analysis from the Central Statistical Office (GUS) using buisseness inteligence tools like PowerBI.
+
+### 4. Machine Learning and Dashboards
+Apart from that, I have experience in projects related to machine learning and building interactive dashboards for data analysis, for example, using data from the Facebook platform.
+
+## Open to New Projects
+I am open to new challenges and projects, especially those related to Big Data, data warehouses, data lakehouses, and machine learning. Feel free to explore my repositories to learn more about my skills and experience.
+
+I am eager to collaborate, so if you have an idea for an interesting project, let me know! 🚀
+
 - 📫 How to reach me: https://www.linkedin.com/in/szymon-gut-20354b213/

@@ -24,7 +24,9 @@ Apart from that, I have experience in projects related to machine learning and b
 
 Dashboards:
 - Facebook analysis (python): https://github.com/Szymon-Gut/Facebook-Dashboard
-- Nobel prizes analysis (R): https://github.com/Szymon-Gut/DashBoard & link to live version to see results without running code: https://galkowskim.shinyapps.io/hw6_TWD_Gut_Galkowski/
+- Nobel prizes analysis (R):
+  - Github: https://github.com/Szymon-Gut/DashBoard
+  - link to live version to see results without running code: https://galkowskim.shinyapps.io/hw6_TWD_Gut_Galkowski/
 
 Machine learning projects:
 - implementation of multi layer perceptron from scratch: https://github.com/Szymon-Gut/MLP

@@ -23,7 +23,7 @@ linked projects:
 Apart from that, I have experience in projects related to machine learning and building interactive dashboards for data analysis, for example, using data from the Facebook platform.
 
 Dashboards:
-- Facebook analysis (python): https://github.com/Szymon-Gut/Facebook-Dashboard
+- Facebook analysis (python): [Facebook-Dashboard](https://github.com/Szymon-Gut/picipolo_DASHboard)
 - Nobel prizes analysis (R):
   - Github: https://github.com/Szymon-Gut/DashBoard
   - link to live version to see results without running code: https://galkowskim.shinyapps.io/hw6_TWD_Gut_Galkowski/

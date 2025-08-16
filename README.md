@@ -1,5 +1,5 @@
 # Hi I'm Simon! 👋
-! am data engineer with passion to machine learning, deep learning and mathematics. 
+I am AI Engineer with passion to machine learning, deep learning and mathematics. 
 ## Projects
 
 ### 1. academia-rl
